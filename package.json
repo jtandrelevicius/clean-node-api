@@ -12,8 +12,8 @@
       "git add"
     ]
   },
-  "husky":{
-    "hooks":{
+  "husky": {
+    "hooks": {
       "pre-commit": "lint-staged"
     }
   },
@@ -29,6 +29,7 @@
   "homepage": "https://github.com/jtandrelevicius/clean-node-api#readme",
   "devDependencies": {
     "husky": "^7.0.4",
+    "jest": "^27.5.1",
     "lint-staged": "^12.3.7",
     "standard": "^16.0.4"
   }
