@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jtandrelevicius/clean-node-api#readme",
   "devDependencies": {
+    "lint-staged": "^12.3.7",
     "standard": "^16.0.4"
   }
 }
